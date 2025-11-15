@@ -4,7 +4,7 @@ A fun and interactive React + Tailwind CSS Memory Card Game where players flip c
 
 🚀 Live Demo
 
-(Add your live link here)
+https://matchcardsapp.netlify.app/
 
 📌 Features
 
@@ -52,7 +52,7 @@ This project boosted my confidence in handling interactive components and real-w
 
 📸 Screenshots
 
-(Add your screenshots here)
+![alt text](<memory card.jpg>)
 
 ▶️ Getting Started
 1. Clone the Repository
